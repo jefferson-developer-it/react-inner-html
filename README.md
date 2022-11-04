@@ -2,6 +2,13 @@
 
 This lib was created to write text as html on component, "But it doesn't already exist?", yes, exist the method default on react, but this method don't execute script JavaScript, then, i created for this execution!
 
+# How did the idea come about?
+
+In one of the projects I'm working on, the need arose to create posts, which would be used to run HTML and JS;
+Where the author, in addition to using the text to create the posts, can create the html to shape the page, in addition to using the js to make it more interactive;
+
+However, React only has the way of writing the html, it does not run the JS, for this and others I created such a project, to write and run the JS;
+
 # How use?
 
 First install the lib:
